@@ -1,7 +1,7 @@
 ---
 Title: Changes to variables
 Description: says which modifications must be made in testing
-Subjects: computer science
-Tags: Relevant tags in list form.
+Subjects: 'Web Development' - 'Computer Science'
+Tags: 'Variables' - 'Data Types'
 CatalogContent: Relevant catalog content in list form.
 ---
