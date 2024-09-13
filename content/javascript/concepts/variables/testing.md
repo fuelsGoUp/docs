@@ -1,4 +1,5 @@
 ---
 
-title = 'new title'
+title:  'new title'
+
 ---
